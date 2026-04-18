@@ -2,7 +2,7 @@
 
 A small light in a large dark. WebGL2, no dependencies.
 
-[live](https://seahorse-app-9tpxu.ondigitalocean.app/)
+[live](https://liminal-dwsw5.ondigitalocean.app/)
 
 ## move
 
